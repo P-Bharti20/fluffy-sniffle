@@ -1,0 +1,23 @@
+body{
+  background-color: #98acf8;
+  background-image: url("lioness.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h1{
+  color: #c75643;
+}
+
+h2{
+  color: #c75643;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 6%;
+}
